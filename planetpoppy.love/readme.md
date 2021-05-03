@@ -18,4 +18,4 @@ And on some of that dirt exists poppies. Right now they look like squares.
 
 These poppies look remarkably like the ones from Lake Elsinore!
 
-If you step on them, they die. This means that each poppy has around...two inches of space. In this place, an inch is equal to 5 pixels.
+If you step on them, they die. This means that each poppy has around...two inches of space, or five centimeters.
