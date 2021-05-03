@@ -10,4 +10,4 @@ Windows:
 2. put a shortcut to love2d in the social-media-ecocide folder
 3. drag the planetpoppy.love folder into the shortcut
 
-Currently, it's not even a world of tulips! It't just the snake game copied from https://simplegametutorials.github.io/love/snake/.
+Currently, it's not even a world of tulips! It's just bedrock
