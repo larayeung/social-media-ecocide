@@ -10,8 +10,12 @@ Windows:
 2. put a shortcut to love2d in the social-media-ecocide folder
 3. drag the planetpoppy.love folder into the shortcut
 
-Currently, it's not even a world of tulips! It's just bedrock.
+Currently, it's not even a world of tulips! It's just dirt.
 
-Ideally we would have a few more layers of uh, existence.
+We do know that there could be uh, poppies on top of the dirt.
 
-We do know that there could be uh, soil on top of the bedrock.
+And on some of that dirt exists poppies. Right now they look like squares.
+
+These poppies look remarkably like the ones from Lake Elsinore!
+
+If you step on them, they die. This means that each poppy has around...two inches of space. In this place, an inch is equal to 5 pixels.
